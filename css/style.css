@@ -143,7 +143,7 @@ header nav ul li a {
 }
 
 #features ul li {
-	width: 300px;
+	width: 260px;
 	padding-top: 140px;
 	float: left;
 	margin-right: 10px;
@@ -254,20 +254,20 @@ footer {
 }
 
 #footer-info {
-	width: 380px;
+	width: 360px;
 	float: left;
 	margin-top: 10px;
 }
 
 #footer-links {
-	width: 520px;
+	width: 500px;
 	float: right;
 }
 
 #footer-links ul {
-	width: 150px;
+	width: 100px;
 	float: left;
-	margin-left: 20px;
+	margin-left: 12px;
 }
 
 #footer-links ul li {
