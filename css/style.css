@@ -14,7 +14,7 @@ body {
 }
 
 .navigation-bar {
-  background-color: #322D2D;
+  background-color: #14CCCA;
   height: 70px;
   width: 100%;
   position: fixed;
@@ -39,11 +39,11 @@ body {
 }
 
 .navigation-bar li a {
-  color: #FFFFFF;
+  color: #000000;
   font-size: 16px;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   text-decoration: none;
   line-height: 70px;
   padding: 5px 15px;
-  opacity: 0.7;
+  opacity: 0.9;
 }
